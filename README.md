@@ -13,16 +13,18 @@ This repository gives you the solution of everyday problems given in 30DaysOfCod
 ## ✨Contribution Steps
 1. Fork the repository.
 2. Download repository in your local machine.
-3. Create folder name with your programming langague in specific day of contest.
+3. Create folder name with your programming language in specific day and specific question of contest.
 	- Ex. `Java`, `Cpp`, `C` etc.
+	- File structure: `Day\Question\Language\file`
 		 ```
 		|- day-1-of-30
-			|- Java
-			|- Python
+			|- Playing with digits
+				|- Java
+				|- Python
 		```
-4. Put your code file in this folder. *
-	- **Note**:  Your file name should be same as the problem statement you solved without special character.
-	- Ex. If problem name is *"Find The Younger One!"* then file name should be `find the younger one.py`or `FindTheYoungerOne.java`
+4. Put your code file in this folder. 
+	- **Note**:  Your file name should be same as the *Hackerrank handle*.
+	- Ex. `urveshpatel.py`or `urveshpatel.java`
 5. Push your code to GitHub.
 6. Create pull request to this repository.
 7. That's it😌. We will check your code and If it is okay then we accept the pull request otherwise tell you the errors.
