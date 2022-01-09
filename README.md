@@ -6,7 +6,7 @@ This repository gives you the solution of everyday problems given in 30DaysOfCod
 
 **Note:** Solution of every problem is given after the contest is over. So first try to solve by yourself then see the solution. **All the best 👍**
 
--- **Phoenix Discord Server Link**:  https://discord.gg/YQpr68ZvzH
+> **Phoenix Discord Server Link**:  https://discord.gg/YQpr68ZvzH
 
 > **Contribute your code if you solve this problems in other language then Python so other can improve their skill in perticular language.**
 
