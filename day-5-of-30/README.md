@@ -1,4 +1,4 @@
-# [Day 5 of 30](https://www.hackerrank.com/contests/day-5-of-30/challenges "Day 4 of 30 contest link")
+# [Day 5 of 30](https://www.hackerrank.com/contests/day-5-of-30/challenges "Day 5 of 30 contest link")
 
 1. Set Union
    - [Question](https://www.hackerrank.com/contests/day-5-of-30/challenges/set-union "Set Union")
