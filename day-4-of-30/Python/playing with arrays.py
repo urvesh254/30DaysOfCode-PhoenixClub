@@ -1,5 +1,4 @@
 """
-    Author: Urveshkumar Patel
     Question: Playing with Arrays
     Question Link: https://www.hackerrank.com/contests/day-4-of-30/challenges/playing-with-arrays-1-1
 """

@@ -1,5 +1,4 @@
 """
-    Author: Urveshkumar Patel
     Question: Playing with digits
     Question Link: https://www.hackerrank.com/contests/day-1-of-30/challenges/difference-between-sum-and-product-of-digit
 """

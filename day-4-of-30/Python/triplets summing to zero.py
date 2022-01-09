@@ -1,5 +1,4 @@
 """
-    Author: Urveshkumar Patel
     Question: Triplets Summing To Zero
     Question Link: https://www.hackerrank.com/contests/day-4-of-30/challenges/triplets-summing-to-zero
 """
@@ -12,7 +11,6 @@ def solve(n, nums):
                 if nums[i] + nums[j] + nums[k] == 0:
                     return "true"
     return "false"
-
 
 
 n = int(input())

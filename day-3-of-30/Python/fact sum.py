@@ -1,5 +1,4 @@
 """
-    Author: Urveshkumar Patel
     Question: Fact Sum
     Question Link: https://www.hackerrank.com/contests/day-3-of-30/challenges/fact-sum
 """

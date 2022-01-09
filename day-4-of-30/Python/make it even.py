@@ -1,5 +1,4 @@
 """
-    Author: Urveshkumar Patel
     Question: Make it Even!
     Question Link: https://www.hackerrank.com/contests/day-4-of-30/challenges/numbers-with-even-number-of-digits-1
 """

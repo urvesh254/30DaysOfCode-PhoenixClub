@@ -1,5 +1,4 @@
 """
-    Author: Urveshkumar Patel
     Question: Keep Arranging!
     Question Link: https://www.hackerrank.com/contests/day-2-of-30/challenges/keep-arranging
 """

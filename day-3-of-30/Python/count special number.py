@@ -1,5 +1,4 @@
 """
-    Author: Urveshkumar Patel
     Question: Count Special Number
     Question Link: https://www.hackerrank.com/contests/day-3-of-30/challenges/count-special-number
 """

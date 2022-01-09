@@ -1,5 +1,4 @@
 """
-    Author: Urveshkumar Patel
     Question: Collatz Sequence
     Question Link: https://www.hackerrank.com/contests/day-1-of-30/challenges/collatz-sequence-3
 """

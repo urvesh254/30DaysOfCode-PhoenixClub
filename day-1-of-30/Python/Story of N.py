@@ -1,5 +1,4 @@
 """
-    Author: Urveshkumar Patel
     Question: Story of N
     Question Link: https://www.hackerrank.com/contests/day-1-of-30/challenges/sum-of-digit-3-1
 """
