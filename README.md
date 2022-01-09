@@ -8,7 +8,7 @@ This repository gives you the solution of everyday problems given in 30DaysOfCod
 
 > **Phoenix Discord Server Link**:  https://discord.gg/YQpr68ZvzH
 
-> **Contribute your code if you solve this problems in other language then Python so other can improve their skill in perticular language.**
+> **Contribute your code if you solve this problems in other language then Python so other can improve their skill in particular language.**
 
 ## ✨Contribution Steps
 1. Fork the repository.
