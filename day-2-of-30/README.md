@@ -7,8 +7,8 @@
 2. Frame it Up!
    - [Question](https://www.hackerrank.com/contests/day-2-of-30/challenges/frame-it-up "Frame it Up!")
    - Solution ([Python](Frame%20it%20Up/Python/ "Solution in Python"))
-   - Solution ([C++](Unfriendly%20Number/C++/ "Solution in C++"))
+   - Solution ([C++](Frame%20it%20Up/C++/ "Solution in C++"))
 3. Keep Arranging!
    - [Question](https://www.hackerrank.com/contests/day-2-of-30/challenges/keep-arranging "Keep Arranging!")
    - Solution ([Python](Keep%20Arranging/Python/ "Solution in Python"))
-   - Solution ([C++](Unfriendly%20Number/C++/ "Solution in C++"))
+   - Solution ([C++](Keep%20Arranging/C++/ "Solution in C++"))
