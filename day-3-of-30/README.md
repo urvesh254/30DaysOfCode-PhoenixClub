@@ -3,9 +3,12 @@
 1. Count Down!
    - [Question](https://www.hackerrank.com/contests/day-3-of-30/challenges/find-me-1-6 "Count Down!")
    - Solution ([Python](Count%20Down/Python/ "Solution in Python"))
+   - Solution ([C++](Count%20Down/C++/ "Solution in C++"))
 2. Fact Sum
    - [Question](https://www.hackerrank.com/contests/day-3-of-30/challenges/fact-sum "Fact Sum")
    - Solution ([Python](Fact%20Sum/Python/ "Solution in Python"))
+   - Solution ([C++](Count%20Down/C++/ "Solution in C++"))
 3. Count Special Number
    - [Question](https://www.hackerrank.com/contests/day-3-of-30/challenges/count-special-number "Count Special Number")
    - Solution ([Python](Count%20Special%20Number/Python/ "Solution in Python"))
+   - Solution ([C++](Count%20Down/C++/ "Solution in C++"))
