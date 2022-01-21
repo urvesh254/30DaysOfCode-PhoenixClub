@@ -2,10 +2,10 @@
 
 1. First fit
    - [Question](https://www.hackerrank.com/contests/day-11-of-30/challenges/first-fit "First fit")
-   - Solution ([Python](First%20Fit/Python/ "Solution in Python")) ([Java](First%20Fit/Java/ "Solution in Java"))
+   - Solution ([Python](First%20Fit/Python/ "Solution in Python")) ([Java](First%20Fit/Java/ "Solution in Java")) ([C++](First%20Fit/C++/ "Solution in C++"))
 2. Indexing
    - [Question](https://www.hackerrank.com/contests/day-11-of-30/challenges/indexing-2 "Indexing")
-   - Solution ([Python](Indexing/Python/ "Solution in Python")) ([Java](Indexing/Java/ "Solution in Java"))
+   - Solution ([Python](Indexing/Python/ "Solution in Python")) ([Java](Indexing/Java/ "Solution in Java")) ([C++](Indexing/C++/ "Solution in C++"))
 3. Journey by train
    - [Question](https://www.hackerrank.com/contests/day-11-of-30/challenges/journey-by-train "Journey by train")
-   - Solution ([Python](Journey%20by%20train/Python/ "Solution in Python")) ([Java](Journey%20by%20train/Java/ "Solution in Java"))
+   - Solution ([Python](Journey%20by%20train/Python/ "Solution in Python")) ([Java](Journey%20by%20train/Java/ "Solution in Java")) ([C++](Journey%20by%20train/C++/ "Solution in C++"))
