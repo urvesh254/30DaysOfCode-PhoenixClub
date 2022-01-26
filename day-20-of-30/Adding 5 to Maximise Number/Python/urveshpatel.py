@@ -1,37 +1,6 @@
-n = int(input())
+num = input()
+ans = []
+for i in range(1 if num[0] == "-" else 0, len(num) + 1):
+    ans.append(num[:i] + "5" + num[i:])
 
-
-def solveNegative(n):
-    s = ""
-    n = str(n)[1:]
-    for i in range(len(n)):
-        if int(n[i]) <= 5:
-            s += n[i]
-        else:
-            s += "5" + n[i:]
-            break
-    if len(n) == len(s):
-        return "-" + s + "5"
-    else:
-        return "-" + s
-
-
-def solvePositive(n):
-    s = ""
-    n = str(n)
-    for i in range(len(n)):
-        if int(n[i]) >= 5:
-            s += n[i]
-        else:
-            s += "5" + n[i:]
-            break
-    if len(n) == len(s):
-        return s + "5"
-    else:
-        return s
-
-
-if n >= 0:
-    print(solvePositive(n))
-else:
-    print(solveNegative(n))
+print(max(map(int, ans)))
