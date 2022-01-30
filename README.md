@@ -25,9 +25,10 @@ This repository gives you the solution of everyday problems given in 30DaysOfCod
 4. Put your code file in this folder. 
 	- **Note**:  Your file name should be same as the *Hackerrank handle*.
 	- Ex. `urveshpatel.py`or `urveshpatel.java`
-5. Push your code to GitHub.
-6. Create pull request to this repository.
-7. That's it😌. We will check your code and If it is okay then we accept the pull request otherwise tell you the errors.
+5. Also If you are contributing the solution in new language then don't forget to add language into the README.md file.
+6. Push your code to GitHub.
+7. Create pull request to this repository.
+8. That's it😌. We will check your code and If it is okay then we accept the pull request otherwise tell you the errors.
 
 ----
 <h3 align="center">Share and 🌟 this repository.<h3>
