@@ -4,8 +4,8 @@ tasks = list(map(int, input().split()))
 people = list(map(int, input().split()))
 
 i = j = count = 0
-tasks.sort()
-people.sort()
+tasks.sort(reverse=True)
+people.sort(reverse=True)
 while i < n1 and j < n2:
     if tasks[i] <= people[j]:
         count += 1
